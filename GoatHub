@@ -1,6 +1,6 @@
 if game.PlaceId == 6284583030 then
     local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-    local Window = OrionLib:MakeWindow({Name = "[☄️COMETS] Pet Simulator X! 🐾 Goat Hub😈", HidePremium = false, IntroEnabled = false,IntroText = "W1X1 HUB", SaveConfig = true, ConfigFolder = "W1x1 Hub"})
+    local Window = OrionLib:MakeWindow({Name = "[🌸KAWAII] Pet Simulator X! 🐾 Goat Hub😈", HidePremium = false, IntroEnabled = false,IntroText = "W1X1 HUB", SaveConfig = true, ConfigFolder = "W1x1 Hub"})
      
     --Values
     _G.Enable = true
